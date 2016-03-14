@@ -17,7 +17,7 @@ cd $GOPATH\src\tatthien\go-hash
 go run main.go
 ```
 
-After running the app, a web server will be started at port 8080 (you can edit port number in code). Then visit [http://localhost:8080/hash/your-password](#) to see the reponse result.
+After running the app, a web server will be started at port 8080 (you can edit port number in code). Then visit [http://localhost:8080/hash/your-password](#) to see the result.
 
 ![HashPassword](http://www.tatthien.com/wp-content/uploads/2016/03/hash.gif)
 
